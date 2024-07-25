@@ -81,13 +81,4 @@ npm run deploy
 npm run mint
 ```
 
-### 8. Finsihed
-
-- Open the deployed-adddress.ts (location in utils folder)
-- Copy the address and paste the address into testnet dashboard
-- Open the tx-hash.txt (location in utils folder)
-- Copy the address and paste the tx hash link into testnet dashboard
-- push this project to your github and paste your repository link in testnet dashboard
-
-by :
-github : [Mnuralim](https://github.com/Mnuralim)
+### 8. Done
