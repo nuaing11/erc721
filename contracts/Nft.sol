@@ -8,7 +8,7 @@ contract TestNFT is ERC721 {
 
     event NFTMinted(address recipient, uint256 tokenId);
 
-    constructor() ERC721("ezieNFT", "ezieNFT") {}
+    constructor() ERC721("Arieza", "ARZA") {}
 
     function mintNFT(address recipient) public returns (uint256) {
         _currentTokenId += 1;
